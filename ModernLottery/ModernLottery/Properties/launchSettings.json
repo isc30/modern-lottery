@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModernLottery": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\Github\\modern-lottery\\ModernLottery"
+    }
+  }
+}
